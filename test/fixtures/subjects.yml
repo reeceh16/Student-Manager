@@ -1,9 +1,21 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  year_level: 1
+maths:
+  title: Maths
+  year_level: 10
 
-two:
-  title: MyString
-  year_level: 1
+english:
+  title: English
+  year_level: 10
+
+information_technology:
+  title: Information Technology
+  year_level: 11
+
+cap:
+  title: Community Action Project
+  year_level: 10
+
+history:
+  title: History
+  year_level: 10

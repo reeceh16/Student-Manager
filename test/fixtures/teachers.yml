@@ -1,9 +1,21 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  email: MyString
+it_teacher:
+  name: Miss Griffin
+  email: griffin.bob@hahahaha.com
 
-two:
-  name: MyString
-  email: MyString
+maths_teacher:
+  name: Agile Development
+  email: rubyonrails4lyf@waterfall.com
+
+cap_teacher:
+  name: Harry Potter
+  email: harry_potter2015@hogwarts.com
+
+english_teacher:
+  name: William Shakespeare
+  email: macbeth_play@shakespeare.net
+
+history_teacher:
+  name: Uncle Sam
+  email: history.cool@thepast.com

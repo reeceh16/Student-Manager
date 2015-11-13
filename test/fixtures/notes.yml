@@ -1,11 +1,41 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  content: MyText
-  date: 
+maths5:
+  title: Probability
+  content: The chance of Reece getting a job at Envato is 100%
+  subject: maths
 
-two:
-  title: MyString
-  content: MyText
-  date: 
+english3:
+  title: Macbeth
+  content: Macbeth is evil
+  subject: english
+
+it4: 
+  title: ruby
+  content: on rails 
+  subject: information_technology
+
+historyyy:
+  title: world war 
+  content: 2 
+  subject: history
+
+maths10: 
+  title: hahsha
+  content: 100 and 10 % 
+  subject: maths
+
+english_7:
+  title: englsdjas
+  content: hahahaa
+  subject: english
+
+cap:
+  title: jdasdasdiasd
+  content: haha project?
+  subject: cap
+
+maths88:
+  title: ahahahaha
+  content: more mathematical methods
+  subject: maths

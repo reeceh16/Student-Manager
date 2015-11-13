@@ -1,11 +1,43 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  description: MyText
-  due_date: 
+maths1:
+  title: Maths probability homework
+  description: Chapter 11 
+  due_date: <% 5.day.ago.to_s(:db) %>
+  subject: maths
 
-two:
-  title: MyString
-  description: MyText
-  due_date: 
+english1:
+  title: English
+  description: Macbeth practice essay
+  due_date: <% 5.day.since.to_s(:db) %>
+  subject: english
+
+cap1:
+  title: Basketball project
+  description: 3 point contest competition last Friday of the year nov 27
+  due_date: <% 8.day.since.to_s(:db) %>
+  subject: cap
+
+it1:
+  title: Ruby on rails 
+  description: agile web development 
+  due_date: <% 4.day.since.to_s(:db) %>
+  subject: information_technology
+
+history1: 
+  title: history homework
+  description: world war 2
+  due_date: <% 2.day.since.to_s(:db) %>
+  subject: history
+
+maths2:
+  title: mathemacation
+  description: probability
+  due_date: <% 6.day.since.to_s(:db) %>
+  subject: maths
+
+english2:
+  title: Macbeth
+  description: evil and destruction
+  due_date: <% 3.day.ago.to_s(:db) %>
+  subject: english
